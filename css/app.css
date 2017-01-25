@@ -24,4 +24,17 @@
 	}
 
 }
-
+body{
+	background-color: #3FB39A;
+}
+p,h1,h2,h3,h4,a{
+	color:white;
+}
+.keyWhite{
+	background: white;
+	color: #333333;
+}
+.keyBlack{
+	background: #333333;
+	color: white;
+}
